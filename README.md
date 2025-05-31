@@ -12,7 +12,7 @@ HTML, CSS, Git, GitHub Pages
 
 ## Uruchomienie
 Otwórz plik `index.html` lub sprawdź stronę:
-[GitHub Pages]([https://dnuker.github.io/zaliczenie_AM_BS/])
+[GitHub Pages](https://dnuker.github.io/zaliczenie_AM_BS/)
 
 ## Twórcy
 - Robert Maciag
