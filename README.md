@@ -8,9 +8,9 @@
 - [Twórcy](#twórcy)
 
 ## Technologie
--HTML,
--CSS,
--Git,
+-HTML,  
+-CSS,  
+-Git,  
 -GitHub Pages
 
 ## Uruchomienie
