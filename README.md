@@ -2,13 +2,16 @@
 
 ![Strona główna](img/screenshot.png)
 
-## 📘 Spis treści
+## Spis treści
 - [Technologie](#technologie)
 - [Uruchomienie](#uruchomienie)
 - [Twórcy](#twórcy)
 
 ## Technologie
-HTML, CSS, Git, GitHub Pages
+-HTML,
+-CSS,
+-Git,
+-GitHub Pages
 
 ## Uruchomienie
 Otwórz plik `index.html` lub sprawdź stronę:
